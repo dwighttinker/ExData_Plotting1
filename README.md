@@ -1,6 +1,6 @@
 ## Introduction
 
-<i><strong>Note that the report.Rmd file was used in testing and will create unnamed segment png files similar to the assigned plots, but the R files are used to generate the assigned files with the correct size.</strong></i>
+<i><strong>Note that the report.Rmd file was used in testing and will create unnamed segment png files similar to the assigned plots, but the R files are used to generate the assigned files with the correct size and which are displayed below.</strong></i>
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
